@@ -1,0 +1,47 @@
+div.inner {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 6px solid darkgray;
+
+}
+div.middle {
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 1px solid white;
+
+}
+
+div.outer {
+    display: inline-block;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    border: 1.5px solid gray;
+}
+
+.button {
+
+
+    background-color:lightgray;
+    color: gray;
+    padding: 15px 20px;
+    text-align: center;
+    font-family: "Arial";
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+
+    border: 1.5px solid gray;
+    border-collapse: separate;
+    border-spacing: 0;
+    cursor: pointer;
+
+}
